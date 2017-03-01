@@ -1,0 +1,85 @@
+{
+    "paging": {
+        "is_end": true,
+        "previous": "https://www.zhihu.com/api/v4/members/bhuztez/answers?include=data%5B%2A%5D.content&limit=20&offset=420",
+        "next": "https://www.zhihu.com/api/v4/members/bhuztez/answers?include=data%5B%2A%5D.content&limit=20&offset=460",
+        "is_start": false,
+        "totals": 442
+    },
+    "data": [
+        {
+            "type": "answer",
+            "is_collapsed": false,
+            "url": "https://www.zhihu.com/api/v4/answers/20839442",
+            "thumbnail": "",
+            "created_time": 1387017957,
+            "updated_time": 1387018006,
+            "id": 20839442,
+            "excerpt": "谭浩强没有编过什么大程序，但这好像并不妨碍他能把计算机语言课讲得很好，能把计算机语言书写得生动活泼、深入浅出。写书和编程序是两码事，C语言发明者亲自操刀写的那本C语言书可能是世界上最难懂的C语言书，这里有一个角度的问题。\n 谭浩强说：“任何人都要有自知之明，任何人都不可能是一个万能科学家，也不可能什么事情都比别人强。我做的只是入门性的工作，我并不是研究计算机系统的专家，也不是计算机软件编程专家，我…",
+            "content": "<blockquote>　　谭浩强没有编过什么大程序，但这好像并不妨碍他能把计算机语言课讲得很好，能把计算机语言书写得生动活泼、深入浅出。写书和编程序是两码事，C语言发明者亲自操刀写的那本C语言书可能是世界上最难懂的C语言书，这里有一个角度的问题。\n    <p>　　谭浩强说：“任何人都要有自知之明，任何人都不可能是一个万能科学家，也不可能什么事情都比别人强。我做的只是入门性的工作，我并不是研究计算机系统的专家，也不是计算机软件编程专家，我只是计算机教育专家。”</p><p>　　谭浩强不愧为一个出色的党政干部，他不遗余力地奔走呼号，宣传计算机普及工作的意义，作为一个深谙宣传之道的政治工作者，谭浩强很清楚只要自己的道理在一个角度上能站住脚，就不怕树个靶子和它争论，理不争不明，最怕的是在寂寞中被遗忘。这和鲁迅当年必须要《呐喊》是一样的道理。</p></blockquote><br>摘自<a class=\" wrap external\" href=\"https://link.zhihu.com/?target=http%3A//www.liuren.com/liuren/hero/chenxuyuan/9.htm\" target=\"_blank\" rel=\"nofollow noreferrer\">谭浩强育人<i class=\"icon-external\"></i></a>",
+            "is_copyable": true,
+            "author": {
+                "is_org": false,
+                "avatar_url_template": "https://pic3.zhimg.com/e59aeb8898c50a830976297787cdce86_{size}.jpg",
+                "gender": 1,
+                "type": "people",
+                "url": "https://www.zhihu.com/api/v4/people/dcddea61834f6b2dcb515f393fe29575",
+                "url_token": "bhuztez",
+                "user_type": "people",
+                "headline": "正在找工作 ...",
+                "badge": [],
+                "is_advertiser": false,
+                "name": "bhuztez",
+                "avatar_url": "https://pic3.zhimg.com/e59aeb8898c50a830976297787cdce86_is.jpg",
+                "id": "dcddea61834f6b2dcb515f393fe29575"
+            },
+            "extras": "",
+            "question": {
+                "title": "谭浩强的 C 语言技术真很牛吗？他写过哪些厉害的程序？",
+                "updated_time": 1320749618,
+                "type": "question",
+                "question_type": "normal",
+                "url": "https://www.zhihu.com/api/v4/questions/19904116",
+                "created": 1320420486,
+                "id": 19904116
+            }
+        },
+        {
+            "type": "answer",
+            "is_collapsed": false,
+            "url": "https://www.zhihu.com/api/v4/answers/20515460",
+            "thumbnail": "",
+            "created_time": 1385985977,
+            "updated_time": 1385985977,
+            "id": 20515460,
+            "excerpt": "我以前一直把Erlang读作“二烂”，直到我膝盖上中了一箭，我才发现原来Erlang应该读做“爱浪”。 参考: silly question: erlang pronunciation How to pronounce ErLang? Seriously. 爱尔朗分布 ",
+            "content": "我以前一直把Erlang读作“二烂”，直到我膝盖上中了一箭，我才发现原来Erlang应该读做“<b>爱浪</b>”。<br><br>参考:<br><a href=\"https://link.zhihu.com/?target=http%3A//erlang.org/pipermail/erlang-questions/2001-July/003391.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">silly question: erlang pronunciation<i class=\"icon-external\"></i></a><br><a href=\"https://link.zhihu.com/?target=http%3A//www.rhinocerus.net/forum/lang-functional/96416-how-pronounce-erlang-seriously.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">How to pronounce ErLang? Seriously.<i class=\"icon-external\"></i></a><br><a href=\"https://link.zhihu.com/?target=http%3A//zh.wikipedia.org/wiki/%25E7%2588%25B1%25E5%25B0%2594%25E6%259C%2597%25E5%2588%2586%25E5%25B8%2583\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">爱尔朗分布<i class=\"icon-external\"></i></a>",
+            "is_copyable": true,
+            "author": {
+                "is_org": false,
+                "avatar_url_template": "https://pic3.zhimg.com/e59aeb8898c50a830976297787cdce86_{size}.jpg",
+                "gender": 1,
+                "type": "people",
+                "url": "https://www.zhihu.com/api/v4/people/dcddea61834f6b2dcb515f393fe29575",
+                "url_token": "bhuztez",
+                "user_type": "people",
+                "headline": "正在找工作 ...",
+                "badge": [],
+                "is_advertiser": false,
+                "name": "bhuztez",
+                "avatar_url": "https://pic3.zhimg.com/e59aeb8898c50a830976297787cdce86_is.jpg",
+                "id": "dcddea61834f6b2dcb515f393fe29575"
+            },
+            "extras": "",
+            "question": {
+                "title": "erlang怎么读？",
+                "updated_time": 1322815227,
+                "type": "question",
+                "question_type": "normal",
+                "url": "https://www.zhihu.com/api/v4/questions/19947262",
+                "created": 1322815227,
+                "id": 19947262
+            }
+        }
+    ]
+}
